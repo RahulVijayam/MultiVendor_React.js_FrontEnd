@@ -1,0 +1,82 @@
+.navbar{
+    background-color: rgb(19, 0, 27);
+}
+.sideBarSection{
+    width: 100%;
+    max-width: 15%;
+    height: 90vh;
+    border: 2px solid rgb(217, 0, 255);
+    background-color: rgb(19, 0, 27);
+    ;
+}
+.sideBarSection li {
+    color: wheat;
+    cursor: pointer;
+}
+.list-group-item:hover{
+    color: blue;
+}
+.list-group-item{
+    background-color: rgb(19, 0, 27);
+    color: white;
+}
+
+.loginSection{
+    width: 100%;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+  
+}
+.registerSection{
+    width: 100%;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+}
+
+.firmSection{
+    width: 100%;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    
+}
+
+.ProductSection{
+    width: 100%;
+    display: flex;
+   justify-content: center;
+   align-items: center;
+    
+}
+
+.authForm{
+    width: 100%;
+    max-width: 50%;
+    border: 1px solid rgb(19, 0, 26);
+    padding: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+
+
+.tableForm{
+    width: 100%;
+    max-width: 50%;
+    border: 1px solid rgb(19, 0, 26);
+    padding: 20px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.collectionSection{
+    display: flex;
+}
+ 
+.table-striped img{
+    width: 10%
+}
+.notfound{
+        min-height: 100vh;
+
+}
