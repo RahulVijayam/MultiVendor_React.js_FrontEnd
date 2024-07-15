@@ -25,7 +25,8 @@ export const Login = () => {
 
                 window.alert(data.success)
                 localStorage.setItem('loginToken',data.token)
-               // window.location.reload();
+                window.location.reload();
+                
                                 
             }
             else{
