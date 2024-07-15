@@ -2,7 +2,7 @@ import React from 'react'
 
 export const NavBar = ({ showLoginHandler, showRegisterHandler, showLogout,logOutHandler}) => {
     return (
-        <nav className="navbar navbar-expand  navbar-dark">
+        <nav className="navbar navb ar-expand  navbar-dark">
             <a className="navbar-brand" href="#">Vendor Dashboard</a>
             <div className="collapse navbar-collapse" id="navbarsExample02">
 
